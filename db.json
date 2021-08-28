@@ -1,0 +1,9 @@
+{
+    "products": [
+      { "id": 1, "code": "1111", "description": "Banana" , "price": "1", "category" : "fruta", "imgUrl": "https://commons.wikimedia.org/wiki/File:Banana-Single.jpg#/media/File:Banana-Single.jpg" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
