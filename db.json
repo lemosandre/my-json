@@ -1,7 +1,7 @@
 {
     "products": [
       { "id": 1, "code": "1111", "description": "Banana" , "price": "1", "category" : "fruta", "imgUrl": "http://pngimg.com/uploads/banana/banana_PNG852.png" },
-      { "id": 2, "code": "1122", "description": "Maca" , "price": "3", "category" : "fruta", "imgUrl": "http://pngimg.com/uploads/apple/apple_PNG12440.png" },
+      { "id": 2, "code": "1122", "description": "Maca" , "price": "3", "category" : "fruta", "imgUrl": "http://pngimg.com/uploads/apple/apple_PNG12440.png" }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 }
